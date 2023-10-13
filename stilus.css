@@ -1,0 +1,112 @@
+.fejlec {
+  background-image: url(cicak_forras/images/hero.jpg);
+  height: 100vh;
+  background-size: cover;
+}
+.tarolo {
+  max-width: 650px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 10px;
+}
+.cim {
+  color: aliceblue;
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+}
+.szoveg {
+  color: aliceblue;
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.menu ul {
+  list-style-type: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  text-align: center;
+  padding-top: 20px;
+  border: 0px solid white;
+  margin: 20px;
+  border-radius: 15px;
+  gap: 10px;
+}
+.menu ul li a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+.menu li {
+  background-color: rgb(243, 117, 0);
+  padding: 15px;
+  border-radius: 25px;
+}
+.menu ul li a:hover {
+  color: rgb(0, 0, 0);
+}
+.menu li:hover {
+  background-color: rgb(255, 255, 255);
+}
+.menu ul {
+  list-style-type: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  text-align: center;
+  padding-top: 20px;
+  border: 0px solid white;
+  margin: 20px;
+  border-radius: 15px;
+  gap: 10px;
+}
+.menu ul li a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+.menu li {
+  background-color: rgb(243, 117, 0);
+  padding: 15px;
+  border-radius: 25px;
+}
+.menu ul li a:hover {
+  color: rgb(0, 0, 0);
+}
+.menu li:hover {
+  background-color: rgb(255, 255, 255);
+}
+
+/* kozepso */
+
+.kozepsolink {
+  margin: auto;
+  width: 45%;
+}
+.kozepsolink ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+  padding-top: 20px;
+  border: 0px solid white;
+  margin: 20px;
+  border-radius: 15px;
+  gap: 10px;
+}
+.kozepsolink ul li a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+.kozepsolink li {
+  background-color: rgb(243, 117, 0);
+  padding: 15px;
+  border-radius: 25px;
+}
+.kozepsolink ul li a:hover {
+  color: rgb(0, 0, 0);
+}
+.kozepsolink li:hover {
+  background-color: rgb(255, 255, 255);
+}
