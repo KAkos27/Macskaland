@@ -99,15 +99,15 @@ body {
   border-image: 1px solid black;
   border-radius: 20px;
 }
-.balalso{
-  position:absolute;
+.balalso {
+  position: absolute;
   bottom: 6px;
   left: 75px;
   font-weight: bold;
 }
-.jobbalso{
+.jobbalso {
   position: absolute;
-  left:455px;
+  left: 455px;
   top: 310px;
   font-weight: bold;
 }
