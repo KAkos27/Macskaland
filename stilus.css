@@ -51,33 +51,6 @@ body {
 .menu li:hover {
   background-color: rgb(255, 255, 255);
 }
-.menu ul {
-  list-style-type: none;
-  padding: 0;
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  text-align: center;
-  padding-top: 20px;
-  border: 0px solid white;
-  margin: 20px;
-  border-radius: 15px;
-  gap: 10px;
-}
-.menu ul li a {
-  text-decoration: none;
-  color: rgb(255, 255, 255);
-}
-.menu li {
-  background-color: rgb(243, 117, 0);
-  padding: 15px;
-  border-radius: 25px;
-}
-.menu ul li a:hover {
-  color: rgb(0, 0, 0);
-}
-.menu li:hover {
-  background-color: rgb(255, 255, 255);
-}
 
 /* kozepso */
 
