@@ -54,6 +54,34 @@ body {
   background-color: rgb(255, 255, 255);
 }
 
+/* kresesem a cicam.html menu */
+#menu2 ul {
+  list-style-type: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding-top: 20px;
+  border: 0px solid white;
+  margin: 20px;
+  border-radius: 15px;
+  gap: 75px;
+}
+#menu2 ul li a {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+#menu2 li {
+  background-color: rgb(243, 117, 0);
+  padding: 15px;
+  border-radius: 25px;
+  
+}
+#menu2 ul li a:hover {
+  color: rgb(0, 0, 0);
+}
+#menu2 li:hover {
+  background-color: rgb(255, 255, 255);
+}
 /* index.html kozepso link */
 
 .kozepsolink {
